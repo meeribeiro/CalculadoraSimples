@@ -2,8 +2,7 @@
 
 Projetos simples de calculadora 🖩
 
-![image](https://user-images.githubusercontent.com/88556924/199544508-6255e0e8-16cc-4cea-8bcc-5cc51271236b.png)
-
+![gif4](https://user-images.githubusercontent.com/88556924/199545820-d5a37065-328f-4758-8996-f260a615e61e.gif)
 
 💻Tecnologias
 
